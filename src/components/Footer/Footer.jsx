@@ -38,8 +38,8 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "" },
-            { icon: <FaTwitter />, link: "" },
+            { icon: <FaFacebook />, link: "https://www.facebook.com/share/18xeBD73CE/" },
+            { icon: <FaTwitter />, link: "https://x.com/Dharmes11235792?t=AKeA8qf6n_h3S_C4310xfQ&s=09" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/dharmesh-patel-7a6244256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
             
             

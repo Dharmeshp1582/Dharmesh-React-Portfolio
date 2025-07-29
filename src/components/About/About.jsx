@@ -40,7 +40,7 @@ const About = () => {
             I’m a passionate full-stack developer skilled in building modern web apps using the MERN stack. With hands-on experience from projects like <strong>MyMechanic</strong> and internships at <strong>IBM CSRBOX</strong>, I specialize in creating seamless backend integration, and scalable solutions. I'm always eager to learn and build efficient, user-centric applications.
           </p>
           <a
-            href="https://drive.google.com/file/d/1EnmsNl8WT30uIUbF6TxAgdGDnS9JyFPh/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1Pz0yBu2CjwHh3iNA6G1w6d7JUp0alL0s/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
